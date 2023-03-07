@@ -1,6 +1,7 @@
 #include <stdio.h>
 #define PI 3.141
 int square_area(float s)
+ /// conts int PI = 3.14
 {
  return s*s;
   // int n=square
